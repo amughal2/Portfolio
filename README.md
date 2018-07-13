@@ -1,4 +1,4 @@
-# CIS 465 Final Deliverable
+# Portfolio
 A collection of various works using ASP.Net and Python. The goal was to use these powerful frameworks to create various web apps.
 
 ## Getting Started:
