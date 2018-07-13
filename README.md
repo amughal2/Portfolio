@@ -1,53 +1,31 @@
-# Learning Logs
-A blog style website that allows users to record what they learn.
+# CIS 465 Final Deliverable
+A collection of various works using ASP.Net and Python. The goal was to use these powerful frameworks to create various web apps.
 
 ## Getting Started:
-Here are the presquisites to get the project running:  
+Here are the presquisites to get the projects running:  
 
  * Python3 needs to be installed
  * The webframework Django needs to be installed
  * Virtualenv needs to be installed
+ * Visual Studio needs to be installed to run the ASP.Net programs
 
-## Running the Project:
+## The ASP.Net_work folder:
 
+A group of different web apps that I learned are placed here. There is a web authenticator, an API, a movie ticket reserver, and file to be uploaded to Azure.
 
-<<<<<<< HEAD
+## The python_work folder:
+A group of small projects to learn various concepts in Python. This folder contains my first major project in Python which is my data visualization. I used pygal to visualize various csv and json files for scientific, business, or educational purposes.
 
-Open the terminal or command line. Navigate to the directoy of the project. Create a virtual environment with the following command :  
-
-python3 -m venv 11_env  
-
-Now the virtual environment needs to be activated with the following code:  
-
-source 11_env/bin/activate  
-
-After the virtual environment has been set up and activated to view the project enter the following code:  
-
-python3 manage.py runserver  
-
-
-
-=======
-Open the terminal or command line. Navigate to the directoy of the project. Create a virtual environment with the following command :  
-
-`python3 -m venv 11_env`
-
-Now the virtual environment needs to be activated with the following code:  
-
-`source 11_env/bin/activate ` 
-
-After the virtual environment has been set up and activated to view the project enter the following code:  
-
-`python3 manage.py runserver`
-
-Open your browswer and enter the localhost link the terminal or commandline provides
+## The learning_logs folder:
+A project that used Django to create a blog style website that allows users to record subjects they have learned. I have used Heroku to upload my web application. Here is the link to my learning_log <http://mylearning-log.herokuapp.com/>
 
 ## Built with:
-The Sublime text editor
+* The Sublime text editor
+* Visual Studio 2015
 
 ## Authors:
 Adil Mughal
 
 ## Acknowledgements:
 I wish to express gratitude to Eric Matthes for helping me learn Python.
->>>>>>> 5e23a52be47a6b53a9da9c287bb7063b6f7d34b2
+
