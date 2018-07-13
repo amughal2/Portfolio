@@ -1,0 +1,12 @@
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication2Azure
+--content-root=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\About.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\Contact.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\Error.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\Index.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\_Layout.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\_ViewImports.cshtml
+--file=C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\Pages\_ViewStart.cshtml

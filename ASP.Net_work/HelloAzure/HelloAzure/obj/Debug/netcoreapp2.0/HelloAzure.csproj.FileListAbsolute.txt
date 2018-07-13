@@ -1,0 +1,11 @@
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\bin\Debug\netcoreapp2.0\HelloAzure.deps.json
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\bin\Debug\netcoreapp2.0\HelloAzure.runtimeconfig.json
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\bin\Debug\netcoreapp2.0\HelloAzure.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\bin\Debug\netcoreapp2.0\HelloAzure.dll
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\bin\Debug\netcoreapp2.0\HelloAzure.pdb
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.csprojResolveAssemblyReference.cache
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.AssemblyInfo.cs
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.dll
+C:\Users\Adil\source\repos\HelloAzure\HelloAzure\obj\Debug\netcoreapp2.0\HelloAzure.pdb

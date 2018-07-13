@@ -1,0 +1,11 @@
+c:\users\adil\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApi.deps.json
+c:\users\adil\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+c:\users\adil\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+c:\users\adil\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApi.dll
+c:\users\adil\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApi.pdb
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.dll
+c:\users\adil\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApi.pdb

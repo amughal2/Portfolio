@@ -1,0 +1,12 @@
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\bin\Debug\netcoreapp2.0\Upload2Axure.deps.json
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\bin\Debug\netcoreapp2.0\Upload2Axure.runtimeconfig.json
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\bin\Debug\netcoreapp2.0\Upload2Axure.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\bin\Debug\netcoreapp2.0\Upload2Axure.dll
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\bin\Debug\netcoreapp2.0\Upload2Axure.pdb
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.csprojResolveAssemblyReference.cache
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.AssemblyInfo.cs
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.dll
+C:\Users\Adil\source\repos\Upload2Axure\Upload2Axure\obj\Debug\netcoreapp2.0\Upload2Axure.pdb

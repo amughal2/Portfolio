@@ -1,0 +1,11 @@
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\bin\Release\netcoreapp2.0\WebApp2Axure.deps.json
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\bin\Release\netcoreapp2.0\WebApp2Axure.runtimeconfig.json
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\bin\Release\netcoreapp2.0\WebApp2Axure.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\bin\Release\netcoreapp2.0\WebApp2Axure.dll
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\bin\Release\netcoreapp2.0\WebApp2Axure.pdb
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.csprojResolveAssemblyReference.cache
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.AssemblyInfo.cs
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.dll
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\obj\Release\netcoreapp2.0\WebApp2Axure.pdb

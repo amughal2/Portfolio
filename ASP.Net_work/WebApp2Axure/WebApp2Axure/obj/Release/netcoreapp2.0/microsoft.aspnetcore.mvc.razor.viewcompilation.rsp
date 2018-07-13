@@ -1,0 +1,12 @@
+C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApp2Axure
+--content-root=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\About.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\Contact.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\Error.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\Index.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\_Layout.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\_ViewImports.cshtml
+--file=C:\Users\Adil\source\repos\WebApp2Axure\WebApp2Axure\Pages\_ViewStart.cshtml

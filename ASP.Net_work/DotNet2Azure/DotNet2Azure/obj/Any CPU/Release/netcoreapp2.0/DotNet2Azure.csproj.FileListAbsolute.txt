@@ -1,0 +1,11 @@
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\bin\Any CPU\Release\netcoreapp2.0\DotNet2Azure.deps.json
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\bin\Any CPU\Release\netcoreapp2.0\DotNet2Azure.runtimeconfig.json
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\bin\Any CPU\Release\netcoreapp2.0\DotNet2Azure.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\bin\Any CPU\Release\netcoreapp2.0\DotNet2Azure.dll
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\bin\Any CPU\Release\netcoreapp2.0\DotNet2Azure.pdb
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.csprojResolveAssemblyReference.cache
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.AssemblyInfo.cs
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.dll
+C:\Users\Adil\source\repos\DotNet2Azure\DotNet2Azure\obj\Any CPU\Release\netcoreapp2.0\DotNet2Azure.pdb

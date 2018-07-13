@@ -1,0 +1,12 @@
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\bin\Debug\netcoreapp2.0\New_WebAuth.deps.json
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\bin\Debug\netcoreapp2.0\New_WebAuth.runtimeconfig.json
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\bin\Debug\netcoreapp2.0\New_WebAuth.runtimeconfig.dev.json
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\bin\Debug\netcoreapp2.0\New_WebAuth.dll
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\bin\Debug\netcoreapp2.0\New_WebAuth.pdb
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.csprojResolveAssemblyReference.cache
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.csproj.CoreCompileInputs.cache
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.AssemblyInfoInputs.cache
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.AssemblyInfo.cs
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.dll
+c:\users\adil\source\repos\New_WebAuth\New_WebAuth\obj\Debug\netcoreapp2.0\New_WebAuth.pdb

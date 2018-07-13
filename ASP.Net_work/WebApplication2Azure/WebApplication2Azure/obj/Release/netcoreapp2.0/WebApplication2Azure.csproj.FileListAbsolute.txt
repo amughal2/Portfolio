@@ -1,0 +1,11 @@
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\bin\Release\netcoreapp2.0\WebApplication2Azure.deps.json
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\bin\Release\netcoreapp2.0\WebApplication2Azure.runtimeconfig.json
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\bin\Release\netcoreapp2.0\WebApplication2Azure.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\bin\Release\netcoreapp2.0\WebApplication2Azure.dll
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\bin\Release\netcoreapp2.0\WebApplication2Azure.pdb
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.csprojResolveAssemblyReference.cache
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.AssemblyInfo.cs
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.dll
+C:\Users\Adil\source\repos\WebApplication2Azure\WebApplication2Azure\obj\Release\netcoreapp2.0\WebApplication2Azure.pdb
